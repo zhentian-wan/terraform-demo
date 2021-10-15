@@ -26,3 +26,9 @@ yes
 ```bash
 terraform destroy
 ```
+
+### Regula
+
+```
+regula run ./tf_test/iam_policy.tf
+```
